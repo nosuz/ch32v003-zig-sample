@@ -2,3 +2,4 @@
 *.s
 *.elf
 *.bin
+.vscode
