@@ -36,4 +36,4 @@ flash: all
 	wlink flash --address 0x08000000 ${BIN_NAME}
 
 clean:
-	rm -r ${BIN_NAME} *.elf *.s
+	rm -f ${BIN_NAME} *.elf *.s
